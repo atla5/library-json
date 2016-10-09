@@ -1,13 +1,17 @@
 # library-json
 
 ### short description ###
-collection of library-relevant material put into a json format
+Collect, translate, standardize, and serve collected crosswalk information for common 
+  metadata schemas and controlled vocabularies in LIS.
 
 ### long description ###
 A collection of json objects which attempt to interpret common information/standards
-  systems (e.g. dublin core) or common repositories of various options and controlled 
-  vocabularies (e.g. LoC subject headings, ISO language options) in a way that is 
-  as helpful, simple, reusable, readable, and extensible as possible.
+  systems (e.g. dublin core) and controlled vocabularies (e.g. LoC subject headings, 
+  ISO language options) in a way that is as helpful, simple, reusable, readable, 
+  and extensible as possible.
+  
+Created as the 'model' side for future work to make a searchable interface and 
+  conversion API. 
   
 ### rationale ###
 
