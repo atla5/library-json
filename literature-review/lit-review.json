@@ -1,0 +1,46 @@
+
+[
+  {
+    "name":"Issues in Crosswalking Content Metadata Standards",
+    "author":["Margaret St. Pierre","William P. LaPlant, Jr."],
+    "date":"1998-10-15",
+    "link":"http://www.niso.org/publications/white_papers/crosswalk/",
+    "tags":["crosswalk","metadata standards"],
+    "id":[""]
+  },
+  {
+    "name":"A Repository of Metadata Crosswalks",
+    "author":["Godby","Young","Childress"],
+    "tags":["crosswalk","xml","repository"]
+  },
+  {
+    "name":"Generation of XML Records across Multiple Metadata Standards",
+    "author":["Lightle","Ridgway"],
+    "tags":["crosswalk","xml","repository"]
+  },
+  {
+    "name":"Metadata for all: Descriptive standards and metadata sharing across libraries, archives and museums",
+    "author":["Elings","Waible"],
+    "tags":["crosswalk","xml","repository"]
+  },
+  {
+    "name":"Metadata Interoperability and Standardization",
+    "author":["Zeng","Chan"],
+    "tags":["metadata","interoperability","standardization"]
+  },
+  {
+    "name":"From Interoperability to Harmonization in Metadata Standardization",
+    "author":["Mikael"],
+    "tags":["metadata","interoperability","standardization","harmonization"]
+  },
+  {
+    "name":"An introduction to digital convergence: libraries, archives, and museums in the information age",
+    "author":[""],
+    "tags":[""]
+  },
+  {
+    "name":"",
+    "author":[""],
+    "tags":[""]
+  },
+]
