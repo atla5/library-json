@@ -1,9 +1,12 @@
+package shared;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Date;
-import java.util.List;
+
+
 
 /**
  * Interface of getters and setters, to be implemented by each standard
@@ -31,12 +34,12 @@ public abstract class Accessible{
     /* - HELPERS - */
 
     /** utilize helper to return _earliest_ date from iterable collection of Dates*/
-    static Date getEarliestDate(Iterable<Date> lsDates){
+    public static Date getEarliestDate(Iterable<Date> lsDates){
         return getDateExtreme(lsDates, true);
     }
 
     /** utilize helper to return _earliest_ date from iterable collection of Dates*/
-    static Date getLatestDate(Iterable<Date> lsDates){
+    public static Date getLatestDate(Iterable<Date> lsDates){
         return getDateExtreme(lsDates, false);
     }
 
@@ -46,7 +49,7 @@ public abstract class Accessible{
      * @param isEarliest
      * @return
      */
-    static Date getDateExtreme(Iterable<Date> lsDates, boolean isEarliest){
+    public static Date getDateExtreme(Iterable<Date> lsDates, boolean isEarliest){
 
         // set toReturn to null to avoid skewing comparison and to handle case where lsDates is empty
         Date toReturn = null;

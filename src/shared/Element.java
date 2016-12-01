@@ -1,5 +1,7 @@
+package shared;
+
 /**
- * Given 'Element' of metadata, not unlike the 'dublin core' standard.
+ * Given 'shared.Element' of metadata, not unlike the 'dublin core' standard.
  */
 public abstract class Element {
 

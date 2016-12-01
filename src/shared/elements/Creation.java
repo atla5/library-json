@@ -1,10 +1,15 @@
+package shared.elements;
+
+import shared.Accessible;
+import shared.Element;
+
 import java.util.Date;
 import java.util.List;
 
 /**
- * Creation - Core element (4) in Getty Crosswalk
+ * shared.elements.Creation - Core element (4) in Getty Crosswalk
  */
-public abstract class Creation extends Element{
+public abstract class Creation extends Element {
 
     // - CREATION (core) - //
 

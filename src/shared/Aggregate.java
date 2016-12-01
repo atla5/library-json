@@ -1,3 +1,7 @@
+package shared;
+
+import shared.Accessible;
+
 import java.util.ArrayList;
 
 /**

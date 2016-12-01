@@ -1,7 +1,11 @@
+package shared.elements;
+
+import shared.Accessible;
+
 import java.util.List;
 
 /**
- * SubjectMatter Matter - Core element (16) of Getty Crosswalk
+ * shared.elements.SubjectMatter Matter - Core element (16) of Getty Crosswalk
  */
 public abstract class SubjectMatter extends Accessible {
 

@@ -1,12 +1,17 @@
+package shared.elements;
+
+import shared.Accessible;
+import shared.Element;
+
 import java.util.Date;
 import java.util.List;
 
 /**
- * Measurements - Core element (6) in Getty Crosswalk
+ * shared.elements.Measurements - Core element (6) in Getty Crosswalk
  */
 public abstract class Measurements extends Element {
 
-    // - Measurements (core) - //
+    // - shared.elements.Measurements (core) - //
 
     public abstract List<String> getDimensionsDescription();
 

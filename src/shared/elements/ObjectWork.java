@@ -1,9 +1,13 @@
+package shared.elements;
+
+import shared.Element;
+
 import java.util.List;
 
 /**
  * Object/Work - Core element (1) in getty crosswalk
  */
-public abstract class ObjectWork extends Element{
+public abstract class ObjectWork extends Element {
 
     // - OBJECT/WORK (core) - //
 

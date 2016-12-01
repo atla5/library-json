@@ -1,10 +1,15 @@
+package shared.elements;
+
+import shared.Accessible;
+import shared.Element;
+
 import java.util.Date;
 import java.util.List;
 
 /**
  * Titles or Names - Core element (3) in Getty Crosswalk
  */
-public abstract class Title extends Element{
+public abstract class Title extends Element {
 
     // - TITLES OR NAMES (core) - //
 

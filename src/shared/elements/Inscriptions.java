@@ -1,12 +1,17 @@
+package shared.elements;
+
+import shared.Accessible;
+import shared.Element;
+
 import java.util.Date;
 import java.util.List;
 
 /**
- * Inscriptions / Marks - Element 8 of Getty Crosswalk
+ * shared.elements.Inscriptions / Marks - shared.Element 8 of Getty Crosswalk
  */
-public abstract class Inscriptions extends Element{
+public abstract class Inscriptions extends Element {
 
-    // - Inscriptions / Marks - //
+    // - shared.elements.Inscriptions / Marks - //
 
     public abstract List<String> getInscriptionDescription();
 

@@ -1,11 +1,13 @@
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
+package shared.elements;
+
+import shared.Accessible;
 
 import java.util.List;
 
 /**
- * State - Element (9) of Getty crosswalk
+ * shared.elements.State - shared.Element (9) of Getty crosswalk
  */
-public abstract class State extends Accessible{
+public abstract class State extends Accessible {
 
     public abstract String getStateDescription();
 

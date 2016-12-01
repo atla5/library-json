@@ -1,9 +1,13 @@
+package shared.elements;
+
+import shared.Element;
+
 import java.util.List;
 
 /**
- * Current Location - Core element (21) in Getty crosswalk.
+ * Current shared.elements.Location - Core element (21) in Getty crosswalk.
  */
-public abstract class Location extends Element{
+public abstract class Location extends Element {
 
     public abstract String getCurrentRepository();
 

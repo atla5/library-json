@@ -1,11 +1,15 @@
+package shared.elements;
+
+import shared.Element;
+
 import java.util.List;
 
 /**
- * Materials and Techniques - Core element (7) in Getty Crosswalk
+ * shared.elements.Materials and Techniques - Core element (7) in Getty Crosswalk
  */
 public abstract class Materials extends Element {
 
-    // - Materials and Techniques (core) - //
+    // - shared.elements.Materials and Techniques (core) - //
 
     public abstract List<String> getMaterialsTechniquesDescription();
 
