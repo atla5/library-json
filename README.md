@@ -13,19 +13,19 @@ A collection of json objects which attempt to interpret common information/stand
   
 ### rationale ###
 
-####library####
+#### library
 much of the work in LIS...
 - involves robust static systems of hierarchically organized knowledge
 - requires constant reference to standards and references which are difficult to memorize (size, specificity, complexity, etc) 
 - can benefit extremely from automation and open source collaboration.
 
-####json####
+#### json
 the .json file format...
 - is very lightweight and readable, allowing for expanding/collapsing sections in most editors/IDEs
 - is increasingly becoming the standard for the web and microservices
 - is language agnostic (easy to translate back into other kinds of objects in different OO-languages)
 
-####etc####
+#### etc
 interpreting these hierarchical systems of information into concrete files is useful for...
 - (reuse) make a reusable reference usable by multiple projects
 - (reference) increasing the reability and understandability 
